@@ -2,3 +2,5 @@
 /ServiceManagerGUI/bin
 /ServiceManagerGUI/obj
 /.vs
+/bin
+/obj
